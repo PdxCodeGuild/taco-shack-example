@@ -4,6 +4,10 @@
 
 # Taco Shack (Example)
 
+**This is a basic SPA (Single Page Application) example with React and `react-router-dom`**
+
+*This project was ejected from `create-react-app` but could be easily reused by copying the source code into an unejected CRA project.*
+
 ## Available Scripts
 
 In the project directory, you can run:
