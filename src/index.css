@@ -23,6 +23,8 @@ main {
 .switch-wrapper {
   position: relative;
   flex-grow: 1;
+
+  overflow-x: hidden;
 }
  
 .switch-wrapper > div {
